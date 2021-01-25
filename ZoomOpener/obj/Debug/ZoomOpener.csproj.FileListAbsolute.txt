@@ -1,0 +1,11 @@
+C:\Users\Elay\source\repos\ZoomOpener\ZoomOpener\bin\Debug\ZoomOpener.exe.config
+C:\Users\Elay\source\repos\ZoomOpener\ZoomOpener\bin\Debug\ZoomOpener.exe
+C:\Users\Elay\source\repos\ZoomOpener\ZoomOpener\bin\Debug\ZoomOpener.pdb
+C:\Users\Elay\source\repos\ZoomOpener\ZoomOpener\obj\Debug\ZoomOpener.csprojAssemblyReference.cache
+C:\Users\Elay\source\repos\ZoomOpener\ZoomOpener\obj\Debug\ZoomOpener.Properties.Resources.resources
+C:\Users\Elay\source\repos\ZoomOpener\ZoomOpener\obj\Debug\ZoomOpener.csproj.GenerateResource.cache
+C:\Users\Elay\source\repos\ZoomOpener\ZoomOpener\obj\Debug\ZoomOpener.csproj.CoreCompileInputs.cache
+C:\Users\Elay\source\repos\ZoomOpener\ZoomOpener\obj\Debug\ZoomOpener.exe
+C:\Users\Elay\source\repos\ZoomOpener\ZoomOpener\obj\Debug\ZoomOpener.pdb
+C:\Users\Elay\source\repos\ZoomOpener\ZoomOpener\obj\Debug\ZoomOpener.Load.resources
+C:\Users\Elay\source\repos\ZoomOpener\ZoomOpener\obj\Debug\ZoomOpener.Setup.resources
