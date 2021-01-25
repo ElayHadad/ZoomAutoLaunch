@@ -8,3 +8,10 @@ Now it will show you all the meeting you have based on the day.
 It is still on his alpha state and I wrote it just today, also I'm in school so I don't know when I'll be able to continue working on it.
 Anyhow, if anyone else has any request or idea how to improve it I'd be glad to hear.
 Also if anyone wants to write a better readme, be my guest (I'll do that when I finish all the improvements I have in mind for it).
+
+RIGHT NOW IT'S ONLY IN HIS ALPHA STATE SO IT HAS VERY BASIC FUNCTIONALITY.
+
+#TODO
+1. Add an option to use it as a service (so you won't need to open it every time you start your computer)
+2. Add a graphical way to edit entered input (as for now it's all saved in "C:\ZoomOpener")
+3. Improve RAM usage (by improving the timer)
