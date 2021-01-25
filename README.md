@@ -11,7 +11,11 @@ Also if anyone wants to write a better readme, be my guest (I'll do that when I 
 
 RIGHT NOW IT'S ONLY IN HIS ALPHA STATE SO IT HAS VERY BASIC FUNCTIONALITY.
 
+
 #TODO
 1. Add an option to use it as a service (so you won't need to open it every time you start your computer)
 2. Add a graphical way to edit entered input (as for now it's all saved in "C:\ZoomOpener")
 3. Improve RAM usage (by improving the timer)
+
+
+If you feel generous and appreciate my work: http://paypal.me/ElayHadad - you can buy me a cup of coffee
